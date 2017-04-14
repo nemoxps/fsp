@@ -1,0 +1,19 @@
+{
+    "name": "fsp",
+    "version": "0.1.0",
+    "description": "Minimal promise wrapper for the fs module.",
+    "keywords": ["fs", "promise", "promisify"],
+    "author": "Pascal Hüttermann (https://github.com/nemoxps)",
+    "license": "MIT",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^3.19.0",
+        "eslint-config-nemoxps": "nemoxps/eslint-config-nemoxps"
+    },
+    "scripts": {
+        "lint": "eslint ./"
+    },
+    "repository": "nemoxps/fsp",
+    "bugs": "https://github.com/nemoxps/fsp/issues"
+}
