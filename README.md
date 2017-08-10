@@ -2,6 +2,9 @@
 Minimal promise wrapper for the `fs` module.
 
 ## Installation
+```sh
+$ npm install nemoxps/fsp
 ```
-$ npm install nemoxps/fsp --save
-```
+
+## License
+MIT
